@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/WeildersCo/static/css/main.eedc99d9.css",
+    "main.js": "/WeildersCo/static/js/main.d6a32cdd.js",
+    "static/js/787.d28485b8.chunk.js": "/WeildersCo/static/js/787.d28485b8.chunk.js",
+    "static/media/illus.jpg": "/WeildersCo/static/media/illus.0a4893421f4eb80a395c.jpg",
+    "static/media/chigar.PNG": "/WeildersCo/static/media/chigar.891e0133d6bb5311c3e0.PNG",
+    "static/media/tarun.PNG": "/WeildersCo/static/media/tarun.da93d5d5c86fc73affe8.PNG",
+    "static/media/HumanPng.png": "/WeildersCo/static/media/HumanPng.c5e5e2322501719747dd.png",
+    "static/media/support-team.png": "/WeildersCo/static/media/support-team.a0c89fd362ea41cd7271.png",
+    "static/media/web-development.png": "/WeildersCo/static/media/web-development.5f94236f6711ef56af6d.png",
+    "static/media/slack-slack-com.png": "/WeildersCo/static/media/slack-slack-com.b89712d212b9887fa96e.png",
+    "static/media/physics.png": "/WeildersCo/static/media/physics.86c8d9eba03e29814d2a.png",
+    "static/media/clapperboard.png": "/WeildersCo/static/media/clapperboard.6d8fb7c8b938ed4ead84.png",
+    "static/media/ux.png": "/WeildersCo/static/media/ux.ffa3e0dd754dc923e50b.png",
+    "static/media/php.png": "/WeildersCo/static/media/php.c9cb90503a526389e05e.png",
+    "static/media/android.png": "/WeildersCo/static/media/android.9e98e7af05d5841e1fd5.png",
+    "index.html": "/WeildersCo/index.html",
+    "main.eedc99d9.css.map": "/WeildersCo/static/css/main.eedc99d9.css.map",
+    "main.d6a32cdd.js.map": "/WeildersCo/static/js/main.d6a32cdd.js.map",
+    "787.d28485b8.chunk.js.map": "/WeildersCo/static/js/787.d28485b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eedc99d9.css",
+    "static/js/main.d6a32cdd.js"
+  ]
+}
